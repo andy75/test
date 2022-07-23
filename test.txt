@@ -1,1 +1,3 @@
 This is just a text file to commit to git repository
+
+Now, we will add a line and see how git responds
